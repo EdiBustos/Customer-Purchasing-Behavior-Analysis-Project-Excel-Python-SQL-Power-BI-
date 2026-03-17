@@ -7,7 +7,7 @@ This project showcases a complete, industry-standard, end-to-end data analytics 
 ## 📌 Project Overview
 The objective of this project is to simulate a corporate-level analytics workflow by transforming raw data into actionable business insights:
 
-✅ Key Components
+Key Components
 
 ✅ Data Preparation, Modeling & EDA (Python)
 Clean, transform, and explore raw datasets to ensure data quality and readiness for analysis.
